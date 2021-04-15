@@ -1,0 +1,6 @@
+01-  image not show(done)
+02- select image not crate slide show(done)
+03-  slider time validation(done)
+04- serach field enter button work(done)
+05- select photo togole select(done)
+06 - seach image validation(done)
